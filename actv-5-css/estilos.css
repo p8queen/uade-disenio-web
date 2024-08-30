@@ -1,0 +1,42 @@
+
+
+h1 {
+    color: #bae8e8;
+}
+
+h2 {
+    color: #7f5af0;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+p.par1 {
+    color: #e53170;
+    
+}
+
+p.par2 {
+    font-size: 20px;
+}
+strong.clase1 {
+    color: #2cb67d;
+}
+
+strong.strong2 {
+    color: #94a1b2;
+}
+
+h3#id1 {
+    color: #faae2b;
+}
+
+h3#id2 {
+    color: #fa5246;
+}
+
+h3#id3 {
+    color: #ffa8ba;
+}
